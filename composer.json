@@ -2,6 +2,7 @@
     "name": "olv-mat/composer-course-search-engine",
     "description": "Project developed during the Composer course on the Alura platform.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Matheus Oliveira",
