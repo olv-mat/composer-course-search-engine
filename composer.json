@@ -1,6 +1,6 @@
 {
     "name": "olv-mat/composer-course-search-engine",
-    "description": "Project developed during the Composer course on the Alura platform.",
+    "description": "Project developed during one of the Alura platform courses.",
     "type": "library",
     "license": "MIT",
     "authors": [
